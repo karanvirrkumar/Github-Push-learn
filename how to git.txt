@@ -1,1 +1,8 @@
 Hey, Today we are gona learn how to push to Github
+
+
+git init
+git add . #to add all
+git commit -m "first commit"
+git remote add origin link #link-> enter git link
+git push -u origin master
